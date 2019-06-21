@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\dice\dice\bin\Debug\dice.exe.config
+C:\Users\user\source\repos\dice\dice\bin\Debug\dice.exe
+C:\Users\user\source\repos\dice\dice\bin\Debug\dice.pdb
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.Form1.resources
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.Properties.Resources.resources
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.csproj.GenerateResource.cache
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.exe
+C:\Users\user\source\repos\dice\dice\obj\Debug\dice.pdb

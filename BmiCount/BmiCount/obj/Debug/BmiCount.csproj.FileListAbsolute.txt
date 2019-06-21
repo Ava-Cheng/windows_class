@@ -1,0 +1,10 @@
+C:\Users\NB\source\repos\BmiCount\BmiCount\bin\Debug\BmiCount.exe.config
+C:\Users\NB\source\repos\BmiCount\BmiCount\bin\Debug\BmiCount.exe
+C:\Users\NB\source\repos\BmiCount\BmiCount\bin\Debug\BmiCount.pdb
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.csprojAssemblyReference.cache
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.Form1.resources
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.Properties.Resources.resources
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.csproj.GenerateResource.cache
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.csproj.CoreCompileInputs.cache
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.exe
+C:\Users\NB\source\repos\BmiCount\BmiCount\obj\Debug\BmiCount.pdb

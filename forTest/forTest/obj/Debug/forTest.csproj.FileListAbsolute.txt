@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\forTest\forTest\bin\Debug\forTest.exe.config
+C:\Users\user\source\repos\forTest\forTest\bin\Debug\forTest.exe
+C:\Users\user\source\repos\forTest\forTest\bin\Debug\forTest.pdb
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.Properties.Resources.resources
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.exe
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.pdb
+C:\Users\user\source\repos\forTest\forTest\obj\Debug\forTest.Form1.resources

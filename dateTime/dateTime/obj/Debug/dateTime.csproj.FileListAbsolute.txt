@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\dateTime\dateTime\bin\Debug\dateTime.exe.config
+C:\Users\user\source\repos\dateTime\dateTime\bin\Debug\dateTime.exe
+C:\Users\user\source\repos\dateTime\dateTime\bin\Debug\dateTime.pdb
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.csprojAssemblyReference.cache
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.Form1.resources
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.Properties.Resources.resources
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.csproj.GenerateResource.cache
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.exe
+C:\Users\user\source\repos\dateTime\dateTime\obj\Debug\dateTime.pdb

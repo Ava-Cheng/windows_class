@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\switchTest\switchTest\bin\Debug\switchTest.exe.config
+C:\Users\user\source\repos\switchTest\switchTest\bin\Debug\switchTest.exe
+C:\Users\user\source\repos\switchTest\switchTest\bin\Debug\switchTest.pdb
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.Form1.resources
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.Properties.Resources.resources
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.exe
+C:\Users\user\source\repos\switchTest\switchTest\obj\Debug\switchTest.pdb

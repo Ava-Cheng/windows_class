@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\IncomeCount\IncomeCount\bin\Debug\IncomeCount.exe.config
+C:\Users\user\source\repos\IncomeCount\IncomeCount\bin\Debug\IncomeCount.exe
+C:\Users\user\source\repos\IncomeCount\IncomeCount\bin\Debug\IncomeCount.pdb
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.csprojAssemblyReference.cache
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.Form1.resources
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.Properties.Resources.resources
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.exe
+C:\Users\user\source\repos\IncomeCount\IncomeCount\obj\Debug\IncomeCount.pdb

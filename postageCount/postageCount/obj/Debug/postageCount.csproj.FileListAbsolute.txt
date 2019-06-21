@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\postageCount\postageCount\bin\Debug\postageCount.exe.config
+C:\Users\user\source\repos\postageCount\postageCount\bin\Debug\postageCount.exe
+C:\Users\user\source\repos\postageCount\postageCount\bin\Debug\postageCount.pdb
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.csprojAssemblyReference.cache
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.Form1.resources
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.Properties.Resources.resources
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.csproj.GenerateResource.cache
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.exe
+C:\Users\user\source\repos\postageCount\postageCount\obj\Debug\postageCount.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.csprojAssemblyReference.cache
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.Form1.resources
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.Properties.Resources.resources
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\leapYearIF\leapYearIF\bin\Debug\leapYearIF.exe.config
+C:\Users\user\source\repos\leapYearIF\leapYearIF\bin\Debug\leapYearIF.exe
+C:\Users\user\source\repos\leapYearIF\leapYearIF\bin\Debug\leapYearIF.pdb
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.exe
+C:\Users\user\source\repos\leapYearIF\leapYearIF\obj\Debug\leapYearIF.pdb

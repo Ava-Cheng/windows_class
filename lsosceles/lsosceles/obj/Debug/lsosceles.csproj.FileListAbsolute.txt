@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\lsosceles\lsosceles\bin\Debug\lsosceles.exe.config
+C:\Users\user\source\repos\lsosceles\lsosceles\bin\Debug\lsosceles.exe
+C:\Users\user\source\repos\lsosceles\lsosceles\bin\Debug\lsosceles.pdb
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.Form1.resources
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.Properties.Resources.resources
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.csproj.GenerateResource.cache
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.exe
+C:\Users\user\source\repos\lsosceles\lsosceles\obj\Debug\lsosceles.pdb

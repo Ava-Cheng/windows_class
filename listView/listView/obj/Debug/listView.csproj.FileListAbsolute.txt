@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\listView\listView\bin\Debug\listView.exe.config
+C:\Users\user\source\repos\listView\listView\bin\Debug\listView.exe
+C:\Users\user\source\repos\listView\listView\bin\Debug\listView.pdb
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.Form1.resources
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.Properties.Resources.resources
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.exe
+C:\Users\user\source\repos\listView\listView\obj\Debug\listView.pdb

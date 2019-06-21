@@ -1,0 +1,11 @@
+網址:
+https://drive.google.com/drive/folders/1f3ypZVRsKAgLW7-rWppNm6xyRJcC_59w?usp=sharing
+
+6/14上傳資料夾為pos_system_finaldemo
+日後有進行修改(較佳)，資料夾名稱為pos_system_finaldemo_v2
+
+裡面有用到MSSQL 路徑部分因為寫絕對路徑，所以務必修改程式再進行執行
+27行SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\李偉慈\Desktop\pos_system_finaldamo\pos.mdf;Integrated Security=True;Connect Timeout=30");
+請將此行C:\Users\李偉慈\Desktop\pos_system_finaldamo_v2\pos.mdf
+修改為:自己電腦存放此檔案資料夾路徑\pos.mdf
+

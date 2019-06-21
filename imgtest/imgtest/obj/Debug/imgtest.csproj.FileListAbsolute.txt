@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\imgtest\imgtest\bin\Debug\imgtest.exe.config
+C:\Users\user\source\repos\imgtest\imgtest\bin\Debug\imgtest.exe
+C:\Users\user\source\repos\imgtest\imgtest\bin\Debug\imgtest.pdb
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.Form1.resources
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.Properties.Resources.resources
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.csproj.GenerateResource.cache
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.exe
+C:\Users\user\source\repos\imgtest\imgtest\obj\Debug\imgtest.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\minN_while\minN_while\bin\Debug\minN_while.exe.config
+C:\Users\user\source\repos\minN_while\minN_while\bin\Debug\minN_while.exe
+C:\Users\user\source\repos\minN_while\minN_while\bin\Debug\minN_while.pdb
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.csprojAssemblyReference.cache
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.Form1.resources
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.Properties.Resources.resources
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.csproj.GenerateResource.cache
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.exe
+C:\Users\user\source\repos\minN_while\minN_while\obj\Debug\minN_while.pdb

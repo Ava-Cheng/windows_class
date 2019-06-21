@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\countGrade\countGrade\bin\Debug\countGrade.exe.config
+C:\Users\user\source\repos\countGrade\countGrade\bin\Debug\countGrade.exe
+C:\Users\user\source\repos\countGrade\countGrade\bin\Debug\countGrade.pdb
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.csprojAssemblyReference.cache
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.Form1.resources
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.Properties.Resources.resources
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.csproj.GenerateResource.cache
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.exe
+C:\Users\user\source\repos\countGrade\countGrade\obj\Debug\countGrade.pdb
